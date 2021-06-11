@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True bears-classification.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True
